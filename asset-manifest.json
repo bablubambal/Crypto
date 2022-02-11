@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bablubambal/Crypto/static/css/main.c1e99af2.css",
+    "main.js": "/bablubambal/Crypto/static/js/main.d619bc98.js",
+    "static/media/cryptocurrency.png": "/bablubambal/Crypto/static/media/cryptocurrency.1548aced3f0605895bac.png",
+    "index.html": "/bablubambal/Crypto/index.html",
+    "main.c1e99af2.css.map": "/bablubambal/Crypto/static/css/main.c1e99af2.css.map",
+    "main.d619bc98.js.map": "/bablubambal/Crypto/static/js/main.d619bc98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1e99af2.css",
+    "static/js/main.d619bc98.js"
+  ]
+}
